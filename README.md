@@ -10,7 +10,7 @@
 
 ## Systems Architechture
 
-* **Logic** OOP inspired, quite funny reinvention of dependency injection looking back at this.
+* **Logic** OOP + MVC inspired, quite funny reinvention of dependency injection looking back at this.
 * **Tech Stack** Java, Eclipse IDE
 
 ---
